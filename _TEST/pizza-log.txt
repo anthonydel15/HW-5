@@ -1,0 +1,5 @@
+L wheat 3
+l white 2
+s white 3
+S Wheat 1
+L wheat 0
